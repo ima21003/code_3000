@@ -1,0 +1,3 @@
+1. The intended users for this git repository is for assignment submission and instructor review of class assignments for cse 3000. 
+2. Some risk of secuirty threats can potentially include a person using code from the repository as supportove evidence for something. For instance, a ML model can provide a result that could be used to make suggestions but not to provide a definitive answer. Another security threat can include hidden code within a file that performs or collects data from computer without approval or awareness. 
+3. This github repository is not secured since the data files are made available public to the entire class. Rather, a github repo can me made private for non-sharable projects. 
